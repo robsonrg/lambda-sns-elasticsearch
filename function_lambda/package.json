@@ -1,0 +1,14 @@
+{
+  "name": "lambda-sns-elasticsearch",
+  "version": "1.0.0",
+  "description": "This is an exercise and also a repository for testing using LocalStack, Elasticsearch, Kibana, AWS Lambda and SNS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^16.7.3"
+  }
+}
